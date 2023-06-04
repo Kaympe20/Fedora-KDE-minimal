@@ -29,4 +29,3 @@ PKGS=(
 	"pim-sieve-editor"
 )
 sudo dnf remove "${PKGS[@]}"
-echo "Congradulations, You Now Have A Minimal Install Of KDE"
