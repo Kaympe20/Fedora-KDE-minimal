@@ -9,7 +9,6 @@ PKGS=(
 	"kmahjongg"
 	"kmail"
 	"kmines"
-	"kmines"
 	"kmousetool"
 	"kmouth"
 	"kolourpaint"
