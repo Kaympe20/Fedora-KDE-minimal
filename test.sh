@@ -27,4 +27,4 @@ PKGS=(
 	"libreoffice-writer"
 	"pim-sieve-editor"
 )
-sudo dnf remove "${PKGS[@]}"
+sudo dnf -y remove "${PKGS[@]}"
