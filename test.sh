@@ -27,4 +27,4 @@ PKGS=(
 	"libreoffice-writer"
 	"pim"
 )
-dnf remove ${PKGS}
+dnf remove -y ${PKGS}
