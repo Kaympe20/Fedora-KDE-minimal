@@ -1,7 +1,6 @@
 #!/bin/bash
 PKGS=(
 	"akregator"
-	"dnfdragora"
 	"dragon"
 	"elisa-player"
 	"mediawriter"
